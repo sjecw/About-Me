@@ -31,11 +31,11 @@ About-Me/
 |── LICENSE
 
 
-* `aboutme.html`: Main page;
-* `style.css`: Website Styiling;
-* `mypic.jpeg`: Author picture used on the website;
-* `README.md`: Informations about the project, this documentation file;
-* `LICENSE`: Project license.
+* `aboutme.html` : Main page;
+* `style.css` : Website Styiling;
+* `mypic.jpeg` : Author picture used on the website;
+* `README.md` : Informations about the project, this documentation file;
+* `LICENSE` : Project license.
 
 ## ⚖️ License
 This project is under the MIT license, access the file [LICENSE](https://github.com/sjecw/About-Me/blob/main/LICENSE) in this repository for more information.
