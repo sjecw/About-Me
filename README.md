@@ -26,11 +26,14 @@ No external libraries or frameworks were used. The focus was on practicing codin
 About-Me/
 |── aboutme.html
 |── style.css
+|── mypic.jpeg
 |── README.md
 |── LICENSE
 
+
 * `aboutme.html`: Main page;
 * `style.css`: Website Styiling;
+* `mypic.jpeg`: Author picture used on the website;
 * `README.md`: Informations about the project, this documentation file;
 * `LICENSE`: Project license.
 
