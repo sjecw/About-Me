@@ -1,0 +1,47 @@
+
+            body{
+                background-color: rgb(236, 214, 227);
+                color: rgb(94, 30, 64);
+                font-family: Helvetica, 'Lucida Sans', Arial, sans-serif;
+            }
+            main{
+                margin-left: auto;
+                margin-right: auto;
+                max-width: 900px;
+                padding: 2px;
+
+            }
+            header{
+                text-align: center;
+                font-weight: bolder;
+                font-size: 32px;
+            }
+
+            h2{
+                padding-top: 16px;
+                font-size: 28px;
+                font-weight: bold;
+
+            }
+
+            p, li{
+                font-size: 20px;
+                font-weight: lighter;
+                text-align: justify;
+            }
+
+            footer, .rodape{
+                text-align: center;
+                font-size: 15px;
+                padding-top: 70px;
+            }
+
+            #direitos-reser{
+                font-size: 13px;
+                text-align: center;
+
+            }
+
+            footer a{
+                color: rgb(193, 12, 160);
+            }
